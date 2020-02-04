@@ -141,7 +141,7 @@ table{
 	height:100%
 }
 body{
-	position:relative;
+	position:absolute;
 	top:0;
 	left:0;
 	--color-text:#fff;

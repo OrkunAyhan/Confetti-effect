@@ -155,7 +155,7 @@
 				}
 				return j(t, a["a"]), t
 			}()) || r) || r),
-			P = new u.a("Confetti", {
+			P = new u.a("A Bigger Circle", {
 				color: "#0f070a",
 				size: b.a.isMobile ? .5 : .8
 			});
