@@ -162,7 +162,6 @@
 				size: b.a.isMobile ? .5 : .8
 			});
 		P.position.x -= .5 * P.basePosition, g.add(P);
-		// Original colours: ["#4062BB", "#52489C", "#59C3C3", "#F45B69", "#F45B69"]
 		var _ = ["#F978A1", "#5FE6BD", "#FFFC36", "#3A6CFF", "#0000FF"].map(function(e) {
 				return new i.Color(e)
 			}),
